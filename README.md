@@ -6,7 +6,7 @@
 #### run main.py
 
 Reimplemente the paper on CIFAR-10:  
-  
-A. K. L. B. Ilya Tolstikhin, Neil Houlsby. Mlp-mixer:An all-mlp architecture for vision. 2021.
+ 
+ https://arxiv.org/pdf/2105.01601.pdf
 
 best result:76.1%
